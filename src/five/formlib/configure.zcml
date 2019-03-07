@@ -11,7 +11,7 @@
       allowed_interface="zope.interface.common.mapping.IItemMapping"
       />
 
-  <configure package="zope.formlib">
+  <!-- configure package="zope.formlib">
 
     <adapter
         factory=".form.render_submit_button"
@@ -26,6 +26,6 @@
         permission="zope.Public"
         />
 
-  </configure>
+  </configure -->
 
 </configure>
